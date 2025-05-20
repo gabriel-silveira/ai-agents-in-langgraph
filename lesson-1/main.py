@@ -1,3 +1,6 @@
+"""
+Main script to run the agent manually
+"""
 from dotenv import load_dotenv
 
 _ = load_dotenv()
